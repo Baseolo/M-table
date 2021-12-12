@@ -1,6 +1,6 @@
 <?php
 try{
-require('proc_avvia_sessione.php');
+require('proc_avvia_sessione.php'); az
 require('proc_funzioni.php');
 require('proc_database.php');
 require('proc_addlog.php');
